@@ -1,1 +1,1 @@
-{"name":"English Speaking AI Coach","short_name":"English Speaking","start_url":"/","display":"standalone","background_color":"#f7f8fc","theme_color":"#3563e9","description":"Build confidence speaking English with guided AI practice","icons":[]}
+{"name":"English Speaking AI Coach","short_name":"English Speaking","start_url":"./english-speaking-coach.html","scope":"./","display":"standalone","background_color":"#f7f8fc","theme_color":"#3563e9","description":"Build confidence speaking English with guided practice","icons":[]}
